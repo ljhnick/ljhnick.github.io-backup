@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Romeo",
+		"title": "Romeo: A Design Tool for Embedding Transformable Parts in 3D Models to Robotically Augment Default Functionalities",
+		"authors": "*Jiahao Li*, Meilin Cui, Jeeeun Kim, Xiang 'Anthony' Chen",
+		"conf": "UIST 2020",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "Robiot",
+		"title": "Robiot: A design tool for actuating everyday objects with automatically generated 3D printable mechanisms",
+		"authors": "*Jiahao Li*, Jeeeun Kim, Xiang 'Anthony' Chen",
+		"conf": "UIST 2019",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	}
+]
