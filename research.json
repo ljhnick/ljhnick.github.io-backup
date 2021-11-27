@@ -1,9 +1,62 @@
 [
+
+	{
+		"name": "Interactive Graphics",
+		"title": "Interactive Graphics",
+		"authors": "*Jiahao Li*, Meilin Cui, Jeeeun Kim, Xiang 'Anthony' Chen",
+		"conf": "UIST 2020",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "Mobiot",
+		"title": "Mobiot",
+		"authors": "*Jiahao Li*, Meilin Cui, Jeeeun Kim, Xiang 'Anthony' Chen",
+		"conf": "UIST 2020",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "Roman",
+		"title": "Roman: Making Everyday Objects Robotically Manipulable with 3D-Printable Add-on Mechanisms",
+		"authors": "*Jiahao Li*, Meilin Cui, Jeeeun Kim, Xiang 'Anthony' Chen",
+		"conf": "UIST 2020",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
 	{
 		"name": "Romeo",
 		"title": "Romeo: A Design Tool for Embedding Transformable Parts in 3D Models to Robotically Augment Default Functionalities",
 		"authors": "*Jiahao Li*, Meilin Cui, Jeeeun Kim, Xiang 'Anthony' Chen",
 		"conf": "UIST 2020",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "Curvy",
+		"title": "Curvy: An Interactive Design Tool for Varying Density Support Structures",
+		"authors": "Erva Ulu, ",
+		"conf": "",
 		"doi": "",
 		"pdf": "",
 		"video": "",
