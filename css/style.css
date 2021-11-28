@@ -68,6 +68,11 @@ ul.social-icons li a {
     border: none;
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
 img.portrait {
     max-width: 100%;
 }
@@ -112,6 +117,7 @@ div.research-project p {
 .news {
     font-size: 15px;
     margin-bottom: 0px;
+    padding-left: 2px;
 }
 
 #news-more {
@@ -123,10 +129,18 @@ div.research-project p {
     -webkit-overflow-scrolling: touch;
 }
 
+.meta {
+    border-style: none;
+    /*font-weight: bold;*/
+    /*color: #999;*/
+    margin-right: 5px;
+}
+
 .info {
     border-style: none;
     font-weight: bold;
     color: #999;
+    margin-right: 5px;
 }
 
 hr.dash {
