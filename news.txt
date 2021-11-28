@@ -1,1 +1,12 @@
-<b>Nov 2021</b> Roman got conditionally accepted by CHI '22.
+Roman got conditionally accepted by CHI '22 (top 12.5%).
+<b>Nov 2021</b> Mobiot got Revise & Resubmission by CHI '22 (top 26.1%).
+<b>Oct 2021</b> Passed my oral exam and advance to candidacy!
+Traveled back to Shanghai for 2 months.
+<b>Sep 2021</b> Ended my intern at Adobe Research and submitted one paper to CHI '22!
+<b>Jun 2021</b> Started my intern at Adobe Research with Rubaiat, Li-Yi and Steve.
+<b>Oct 2020</b> Presented Romeo virtually at UIST 2020.
+<b>Jun 2020</b> One paper got accepted by UIST 2020 (without rebuttal due to pandemic).
+<b>Nov 2019</b> Robiot was featured in <a href="https://www.newscientist.com/article/2224607-turn-any-object-into-a-robot-using-this-program-and-a-3d-printer/">New Scientist</a>!
+<b>Oct 2019</b> Presented Robiot at UIST 2019 in New Orleans.
+One paper got accecpted by UIST 2019.
+<b>Jun 2019</b> Started my intern at PARC with Erva and Nurcan.

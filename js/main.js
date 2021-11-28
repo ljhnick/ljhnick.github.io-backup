@@ -3,7 +3,6 @@ fetch('research.json')
         return response.json();
     })
     .then(function (data) {
-    	console.log(data);
     	appendData(data);
     })
     .catch(function (err) {
@@ -90,14 +89,16 @@ fetch('news.txt')
 
 function updateNews(text) {
 	var lines = text.split('\n');
-
+	// console.log(lines);
 	var section = $('.news');
 
 	for (var i=0; i < lines.length; i++) {
 		var newsText = lines[i];
 		var news = $('<li></li>');
 		news.append(newsText);
+		// console.log(newsText);
+		section.append(news);
 	}
 	
-	section.append(news);
+	
 }
