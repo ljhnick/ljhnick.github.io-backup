@@ -114,6 +114,10 @@ div.research-project p {
     margin-bottom: 0.3rem;
 }
 
+p.future-plan {
+    font-weight: bold;
+}
+
 .news {
     font-size: 15px;
     margin-bottom: 0px;
