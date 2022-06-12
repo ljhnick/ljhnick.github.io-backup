@@ -199,3 +199,7 @@ hr.dash {
 .slider.round:before {
   border-radius: 50%;
 }
+
+.widget {
+    width: 200px;
+}
