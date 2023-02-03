@@ -2,18 +2,18 @@
 
 	
 
-	{
-		"name": "Interactive Graphics",
-		"title": "RecReality: Authoring Interactive and Embedded Graphics Driven by Everyday Objects with User-defined Mappings",
-		"authors": "<strong>Jiahao Li</strong>, Ruolin Wang, Li-Yi Wei, Rubaiat Habib Kazi, Stephen DiVerdi, Xiang 'Anthony' Chen",
-		"conf": "Submitting to CHI 2023.",
-		"doi": "",
-		"pdf": "",
-		"video": "",
-		"cite": "",
-		"gif": "assets/projects/interactive_graphics/thumbnail.gif",
-		"abstract": ""
-	},
+	// {
+	// 	"name": "Interactive Graphics",
+	// 	"title": "RecReality: Authoring Interactive and Embedded Graphics Driven by Everyday Objects with User-defined Mappings",
+	// 	"authors": "<strong>Jiahao Li</strong>, Ruolin Wang, Li-Yi Wei, Rubaiat Habib Kazi, Stephen DiVerdi, Xiang 'Anthony' Chen",
+	// 	"conf": "Submitting to CHI 2023.",
+	// 	"doi": "",
+	// 	"pdf": "",
+	// 	"video": "",
+	// 	"cite": "",
+	// 	"gif": "assets/projects/interactive_graphics/thumbnail.gif",
+	// 	"abstract": ""
+	// },
 
 	{
 		"name": "MiniKers",
