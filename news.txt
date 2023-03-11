@@ -1,3 +1,8 @@
+<b>Dec 2022</b> Arrived at Toronto and started my internship at Meta.
+Gave a talk at University of Chicago hosted by <a href="https://www.ken-nakagaki.com/">Ken Nakagaki</a> and <a href="http://plopes.org/">Pedro Lopes</a>.
+Gave a talk at Purdue hosted by <a href="https://www.lianghe.me/">Liang He</a>
+<b>Nov 2022</b> Started my SOLO roadtrip with my dog Poki from Los Angeles to Toronto (12 days)
+<b>Oct 2022</b> Arrived at UIST 2022 in Bend, OR.
 <b>Jun 2022</b> Arrived in Tokyo!
 <b>May 2022</b> Attended CHI 2022 at NOLA in person.
 Will be joining Meta Reality Lab in Toronto in Dec. 2022
