@@ -1,6 +1,58 @@
 [
 
 	{
+		"name": "OmniActions",
+		"title": "OmniActions: Understanding and Predicting Follow-Up Actions On Multimodal Information Using Large Language Models",
+		"authors": "<strong>Jiahao ''Nick'' Li</strong>, Yan Xu, Tovi Grossman, Stephanie Santosa, Michelle Li",
+		"conf": "Under review.",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "Human I/O",
+		"title": "Human I/O: Towards Comprehensive Detection of Situational Impairments in Everyday Activities",
+		"authors": "Xingyu ''Bruce'' Liu, <strong>Jiahao ''Nick'' Li</strong>, Siyou Pei, Xiuxiu Yuan, David Kim, Xiang 'Anthony' Chen, Ruofei Du",
+		"conf": "Under review.",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "RoCap",
+		"title": "RoCap: A Robotic Pipeline for Collecting Dataset of State-changing Objects Pose Estimation",
+		"authors": "<strong>Jiahao ''Nick'' Li</strong>*, Toby Chong*, Zhongyi Zhou, Hironori Yoshida, Koji Yatani, Xiang 'Anthony' Chen, Takeo Igarashi",
+		"conf": "Under review.",
+		"doi": "",
+		"pdf": "",
+		"video": "",
+		"cite": "",
+		"gif": "",
+		"abstract": ""
+	},
+
+	{
+		"name": "RecReality",
+		"title": "RecReality: Authoring Interactive and Embedded Graphics Driven by Everyday Objects with User-defined Mappings",
+		"authors": "<strong>Jiahao Li</strong>, Ruolin Wang, Li-Yi Wei, Rubaiat Habib Kazi, Stephen DiVerdi, Xiang 'Anthony' Chen",
+		"conf": "Under review.",
+		"doi": "",
+		"pdf": "",
+		"video": "https://youtu.be/mqS3tSF6q_4",
+		"cite": "",
+		"gif": "assets/projects/interactive_graphics/thumbnail.gif",
+		"abstract": ""
+	},
+
+	{
 		"name": "MiniKers",
 		"title": "MiniKers: Interaction-Powered Smart Environment Automation",
 		"authors": "Xiaoying Yang, Jacob Sayono, Jess Xu, <strong>Jiahao 'Nick' Li</strong>, Josiah Hester, Yang Zhang",
