@@ -45,13 +45,17 @@ function appendData(data) {
         }
 
         authors.append('<br>');
-        var pdf = $('<a class="info" href=""><i class="far fa-file-pdf fa-lg"></i></a>');
-        pdf.attr('href', data[i].pdf);
-   	    authors.append(pdf);
-
-        var video = $('<a class="info" href=""><i class="fas fa-video fa-lg"></i></a>');
-        video.attr('href', data[i].video);
-        authors.append(video);
+        if (data[i].pdf != "") {
+            var pdf = $('<a class="info" href=""><i class="far fa-file-pdf fa-lg"></i></a>');
+            pdf.attr('href', data[i].pdf);
+            authors.append(pdf);
+        }
+        
+        if (data[i].video != "") {
+            var video = $('<a class="info" href=""><i class="fas fa-video fa-lg"></i></a>');
+            video.attr('href', data[i].video);
+            authors.append(video);
+        }
 
         if (data[i].doi != "") {
         	var doi = $('<a class="info" href=""><i class="ai ai-doi ai-lg"></i></a>');
