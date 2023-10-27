@@ -6,7 +6,7 @@
 		"authors": "<strong>Jiahao ''Nick'' Li</strong>, Yan Xu, Tovi Grossman, Stephanie Santosa, Michelle Li",
 		"conf": "Under review.",
 		"doi": "",
-		"pdf": "",
+		"pdf": "assets/projects/omniactions/omniactions.pdf",
 		"video": "",
 		"cite": "",
 		"gif": "",
@@ -15,7 +15,7 @@
 
 	{
 		"name": "Human I/O",
-		"title": "Human I/O: Towards Comprehensive Detection of Situational Impairments in Everyday Activities",
+		"title": "Human I/O: Towards a Unified Approach to Detecting Situational Impairments in Everyday Activities",
 		"authors": "Xingyu ''Bruce'' Liu, <strong>Jiahao ''Nick'' Li</strong>, Siyou Pei, Xiuxiu Yuan, David Kim, Xiang 'Anthony' Chen, Ruofei Du",
 		"conf": "Under review.",
 		"doi": "",
@@ -32,7 +32,7 @@
 		"authors": "<strong>Jiahao ''Nick'' Li</strong>*, Toby Chong*, Zhongyi Zhou, Hironori Yoshida, Koji Yatani, Xiang 'Anthony' Chen, Takeo Igarashi",
 		"conf": "Under review.",
 		"doi": "",
-		"pdf": "",
+		"pdf": "assets/projects/rocap/rocap.pdf",
 		"video": "https://youtu.be/UZOzM_BNOPg",
 		"cite": "",
 		"gif": "",
